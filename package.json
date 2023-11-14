@@ -1,0 +1,19 @@
+{
+  "name": "node-yargs",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar y almacenamiento en archivo de texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NODE",
+    "YARGS"
+  ],
+  "author": "Alexander Pozas",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
